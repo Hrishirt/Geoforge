@@ -2,9 +2,7 @@
 
 A real-time procedural infinite world generator running entirely in the browser. Terrain is generated chunk-by-chunk using layered simplex noise, with biome classification powered by a neural network trained at startup.
 
-**[Live Demo →](#)** *(https://geoforge-jr0yxbunh-hrishirts-projects.vercel.app/?seed=6a14ji)*
-
-![Screenshot placeholder](screenshot.png)
+**[Live Demo →](https://geoforge-jr0yxbunh-hrishirts-projects.vercel.app/?seed=6a14ji)** 
 
 ---
 
